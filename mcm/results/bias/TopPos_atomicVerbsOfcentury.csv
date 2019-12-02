@@ -1,0 +1,27 @@
+use 1510 1699,,use 1700 1799,,use 1800 1899
+Action,Bias,Action,Bias,Action,Bias
+brutalise,0.128,inspire,0.104,care,0.101
+inspire,0.128,misreport,0.102,treasure,0.094
+slaughter,0.126,remarry,0.100,appreciate,0.092
+misadvise,0.118,bully,0.100,travel,0.091
+bully,0.114,blame,0.099,help,0.087
+torture,0.113,victimise,0.099,smile,0.085
+pollute,0.110,poison,0.096,love,0.080
+blame,0.108,celebrate,0.095,be,0.080
+victimise,0.105,dream,0.095,eat,0.075
+trust,0.085,marry,0.095,talk,0.075
+pursue,0.085,charm,0.094,celebrate,0.075
+charm,0.083,slander,0.094,charm,0.074
+borrow,0.082,misdirect,0.094,congratulate,0.074
+misreport,0.081,brutalise,0.093,drink,0.074
+rape,0.077,treasure,0.093,welcome,0.073
+destruct,0.064,rape,0.091,cheer,0.073
+greet,0.063,slaughter,0.090,pollute,0.070
+destroy,0.062,misadvise,0.089,thank,0.070
+become,0.061,trust,0.088,clap,0.067
+acknowledge,0.059,cherish,0.087,comfort,0.066
+love,0.058,harm,0.086,have a gun,0.065
+slander,0.055,pursue,0.086,relax,0.063
+harm,0.053,congratulate,0.085,enjoy,0.062
+cherish,0.051,acknowledge,0.085,apologize,0.062
+treasure,0.051,illegalize,0.085,become,0.061

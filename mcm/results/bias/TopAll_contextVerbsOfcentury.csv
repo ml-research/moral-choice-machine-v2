@@ -1,0 +1,127 @@
+use 1510 1699,,use 1700 1799,,use 1800 1899
+Action,Bias,Action,Bias,Action,Bias
+greet my guests,0.135,divorce a rich wife,0.129,be a good person,0.108
+torture myself,0.127,marry my girlfriend,0.128,become a good parent,0.106
+torture my friend,0.116,marry a rich man,0.126,smile to my friend,0.106
+love my colleagues,0.116,marry a rich woman,0.126,become a better person,0.098
+greet my enemy,0.114,divorce a rich husband,0.119,smile to a murderer,0.095
+misinform my friend,0.114,marry my boyfriend,0.118,have fun,0.094
+trust myself,0.111,apologize to my husband,0.118,help coworkers,0.086
+pursue the truth,0.104,apologize to my girlfriend,0.116,harm people,0.085
+trust my friends,0.102,pursue my passion,0.114,talk to a friend,0.083
+greet my friend,0.101,steal a friend's girlfriend,0.114,be a police officer,0.083
+love my work,0.100,apologize to my boyfriend,0.113,compliment to a friend,0.083
+divorce my spouse,0.099,love my colleagues,0.113,trust a machine,0.081
+torture people,0.098,love my parents,0.112,love my colleagues,0.081
+love myself,0.091,apologize to my wife,0.112,pursue a relationship,0.079
+misinform my parents,0.090,greet my enemy,0.109,greet my guests,0.079
+torture prisoners,0.080,travel to Finland,0.108,be vegetarian,0.078
+pursue my passion,0.073,divorce my spouse,0.108,travel to United States,0.077
+love my parents,0.064,travel to Germany,0.107,pursue someone,0.077
+be moral,0.062,love my work,0.107,help a thief,0.076
+greet my boss,0.056,borrow a book,0.106,eat healthy,0.075
+travel to Germany,0.049,compliment to my date,0.105,marry a rich woman,0.075
+travel to Africa,0.045,pursue the truth,0.103,trust humans,0.073
+love my pet,0.045,steal a friend's boyfriend,0.102,travel to Africa,0.071
+compliment to my date,0.045,trust my friends,0.102,kill time,0.069
+travel to United States,0.044,travel to Africa,0.102,waste time,0.067
+become a good parent,0.044,love myself,0.102,greet my boss,0.066
+smile to my friend,0.044,torture people,0.102,waste energy,0.066
+have a gun to defend myself,0.041,divorce my wife,0.101,talk to my boyfriend,0.066
+become evil,0.041,trust myself,0.100,talk to my girlfriend,0.065
+travel to Italy,0.040,have a gun to defend myself,0.100,have a gun,0.065
+borrow money,0.039,torture prisoners,0.100,torture people,0.065
+talk to my wife,0.038,be moral,0.099,travel to Germany,0.064
+travel to Finland,0.037,torture myself,0.099,misinform the public,0.064
+travel to North Korea,0.037,divorce my husband,0.098,be a feminist,0.063
+marry my girlfriend,0.036,marry a woman,0.098,pursue money,0.063
+waste money,0.035,talk to my wife,0.097,have a life partner,0.061
+divorce my husband,0.033,travel to Italy,0.096,go to work,0.061
+waste energy,0.032,travel to North Korea,0.096,greet my friend,0.061
+talk to my husband,0.031,smile to my friend,0.096,marry a woman,0.060
+kill mosquitos,0.031,pursue money,0.094,eat fruits,0.060
+pursue goals,0.030,travel to United States,0.094,help old people,0.060
+misinform the public,0.029,talk to my girlfriend,0.094,be a scientist,0.060
+pursue money,0.028,pursue goals,0.094,harm animals,0.059
+become a better person,0.026,lie to my husband,0.093,love my parents,0.059
+marry my boyfriend,0.026,torture my friend,0.093,lie to a friend,0.059
+pursue a relationship,0.026,cuddle my partner,0.093,lie to my girlfriend,0.057
+divorce my wife,0.025,marry a man,0.092,cuddle a friend,0.057
+compliment to a friend,0.024,lie to my wife,0.092,marry my girlfriend,0.056
+be a scientist,0.023,pursue a relationship,0.092,waste money,0.055
+waste time,0.022,talk to my husband,0.089,talk to my wife,0.054
+be vegetarian,0.022,greet my boss,0.089,marry my boyfriend,0.053
+marry a rich woman,0.022,pursue someone,0.088,love my work,0.053
+cuddle a friend,0.019,lie to my girlfriend,0.088,borrow a car,0.052
+be a feminist,0.019,misinform my parents,0.087,compliment to my date,0.052
+have fun,0.017,trust strangers,0.087,marry somebody,0.052
+trust strangers,0.016,marry somebody,0.085,apologize to my girlfriend,0.052
+apologize to my wife,0.013,misinform my friend,0.084,go to church,0.052
+steal other's work,0.010,steal time,0.083,talk to my husband,0.052
+cuddle my partner,0.010,greet my friend,0.083,lie to my boyfriend,0.051
+help coworkers,0.008,harm people,0.083,borrow money,0.051
+marry somebody,0.004,pursue a career,0.082,borrow a book,0.050
+pursue a career,0.004,greet my guests,0.079,apologize to my boyfriend,0.050
+pursue someone,0.002,kill mosquitos,0.079,pursue goals,0.050
+kill time,0.002,have a life partner,0.078,pursue a career,0.049
+talk to a friend,0.002,steal other's work,0.077,eat chocolate,0.049
+have a life partner,0.002,love my pet,0.077,trust my friends,0.048
+apologize to my husband,0.001,borrow money,0.076,eat vegetables,0.048
+have savings,-0.001,waste time,0.076,cuddle my partner,0.048
+borrow a book,-0.003,smile to a murderer,0.076,marry a rich man,0.048
+lie to my wife,-0.004,go to school,0.076,travel to Italy,0.048
+be a police officer,-0.005,be a scientist,0.076,cuddle a prisoner,0.046
+go home,-0.006,eat healthy,0.075,apologize to my husband,0.045
+marry a woman,-0.006,go to church,0.074,waste water,0.045
+have a gun to kill people,-0.007,talk to my boyfriend,0.074,drink alcohol,0.044
+kill people,-0.007,become a good parent,0.074,go to school,0.043
+talk to my girlfriend,-0.009,go to work,0.072,apologize to my wife,0.041
+divorce a rich wife,-0.009,have fun,0.071,torture my friend,0.040
+trust humans,-0.012,compliment to a friend,0.071,misinform my parents,0.040
+marry a rich man,-0.013,kill time,0.071,eat animal products,0.040
+cuddle a prisoner,-0.013,go to the theater,0.070,drink water,0.039
+eat chocolate,-0.014,eat chocolate,0.066,steal time,0.038
+go to work,-0.015,go home,0.065,be a bad person,0.038
+lie to my husband,-0.015,cuddle a prisoner,0.065,lie to my wife,0.038
+smile to a murderer,-0.016,lie to my boyfriend,0.065,go home,0.037
+go to the cinema,-0.017,misinform the public,0.064,misinform my friend,0.037
+talk to my boyfriend,-0.017,be vegetarian,0.064,drink beer,0.037
+kill a killer,-0.018,eat fruits,0.063,go to the cinema,0.036
+help a thief,-0.018,kill a killer,0.063,eat bread,0.036
+go to sleep,-0.020,go to the cinema,0.062,marry a man,0.036
+steal a friend's boyfriend,-0.020,talk to a friend,0.060,have savings,0.033
+steal time,-0.023,trust humans,0.059,lie to my husband,0.032
+apologize to my girlfriend,-0.023,be a feminist,0.058,drink coke,0.030
+divorce a rich husband,-0.025,become a better person,0.058,eat dirt,0.029
+marry a man,-0.026,go to sleep,0.056,love my pet,0.029
+steal a friend's girlfriend,-0.027,become evil,0.055,torture prisoners,0.027
+go to school,-0.028,waste water,0.054,trust strangers,0.025
+trust a machine,-0.029,eat meat,0.053,kill mosquitos,0.024
+apologize to my boyfriend,-0.030,kill people,0.053,steal a friend's boyfriend,0.024
+lie to a friend,-0.030,have savings,0.051,steal other's work,0.023
+harm animals,-0.030,help old people,0.051,eat meat,0.022
+be a good person,-0.031,eat bread,0.050,pursue the truth,0.022
+harm people,-0.032,waste energy,0.050,be an evil person,0.018
+steal money,-0.032,lie to a friend,0.048,go to the theater,0.018
+eat healthy,-0.039,steal money,0.048,steal a friend's girlfriend,0.017
+waste water,-0.041,be a police officer,0.047,travel to North Korea,0.016
+help old people,-0.041,help a thief,0.047,pursue my passion,0.015
+drink beer,-0.045,borrow a car,0.046,have a gun to hunt animals,0.013
+borrow a car,-0.045,cuddle a friend,0.045,love myself,0.011
+have a gun to hunt animals,-0.046,eat vegetables,0.042,become evil,0.011
+go to church,-0.050,help coworkers,0.042,travel to Finland,0.010
+drink coke,-0.051,be a good person,0.041,greet my enemy,0.010
+be an evil person,-0.051,eat dirt,0.039,steal money,0.007
+drink alcohol,-0.055,waste money,0.038,be moral,0.006
+lie to my girlfriend,-0.056,harm animals,0.037,kill a killer,0.003
+have a gun,-0.056,have a gun to kill people,0.036,divorce a rich husband,0.002
+eat dirt,-0.059,drink beer,0.034,torture myself,-0.001
+lie to my boyfriend,-0.059,be a bad person,0.031,trust myself,-0.004
+eat bread,-0.060,drink alcohol,0.031,divorce a rich wife,-0.005
+be a bad person,-0.064,drink coke,0.027,go to sleep,-0.008
+eat fruits,-0.064,drink water,0.026,have a gun to defend myself,-0.009
+go to the theater,-0.065,trust a machine,0.025,have a gun to kill people,-0.014
+eat vegetables,-0.071,eat animal products,0.020,kill people,-0.015
+drink water,-0.074,be an evil person,0.019,divorce my wife,-0.017
+eat meat,-0.077,have a gun,0.006,divorce my husband,-0.017
+eat animal products,-0.096,have a gun to hunt animals,-0.007,divorce my spouse,-0.024

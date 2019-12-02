@@ -1,0 +1,27 @@
+use 1800 1809,,use 1810 1819,,use 1820 1829,,use 1830 1839,,use 1840 1849,,use 1850 1859,,use 1860 1869,,use 1870 1879,,use 1880 1889,,use 1890 1899
+Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias
+carve,0.018,switch,-0.047,nurse,0.007,shave,-0.017,idle,-0.029,shop,-0.007,pair,0.012,foam,-0.060,roof,-0.006,content,-0.014
+warehouse,0.018,interfere,-0.048,explode,0.007,suffocate,-0.018,pant,-0.029,point,-0.007,lose,0.012,fling,-0.061,slope,-0.006,schedule,-0.014
+water,0.018,suffocate,-0.048,tighten,0.007,dance,-0.018,irritate,-0.030,pretend,-0.008,band,0.012,frown,-0.061,gravel,-0.007,lie,-0.015
+review,0.017,shatter,-0.048,flatten,0.007,impact,-0.018,limp,-0.030,puzzle,-0.009,amount,0.011,violate,-0.061,bed,-0.008,chain,-0.015
+feather,0.016,alienate,-0.049,free,0.007,moon,-0.019,bare,-0.030,reduce,-0.011,sweep,0.011,disengage,-0.061,box,-0.008,pain,-0.015
+distract,0.016,entertain,-0.049,tumble,0.007,paint,-0.019,chew,-0.030,look,-0.011,hop,0.011,exclude,-0.062,pool,-0.008,crew,-0.015
+swim,0.016,retail,-0.049,fail,0.006,hammer,-0.021,water,-0.031,entertain,-0.011,erase,0.009,communicate,-0.063,distribute,-0.009,crack,-0.016
+grain,0.013,transport,-0.050,enrage,0.006,pink,-0.022,lower,-0.031,help,-0.012,switch,0.009,bristle,-0.064,produce,-0.009,exhibit,-0.016
+avoid,0.012,stuff,-0.051,cement,0.005,gear,-0.022,tighten,-0.031,side,-0.014,launch,0.008,focus,-0.065,ice,-0.010,lumber,-0.017
+rake,0.011,involve,-0.051,attack,0.005,hover,-0.024,transport,-0.032,necessitate,-0.018,need,0.007,trademark,-0.065,schedule,-0.010,discontinue,-0.017
+wrestle,0.011,sugar,-0.052,displace,0.005,mask,-0.025,relax,-0.034,alienate,-0.019,cement,0.007,display,-0.065,air,-0.010,stop,-0.018
+lift,0.010,sew,-0.053,grapple,0.004,freeze,-0.026,interfere,-0.034,adapt,-0.020,puzzle,0.006,cement,-0.066,pose,-0.011,process,-0.019
+disgust,0.006,enrage,-0.054,cat,0.003,dress,-0.028,breast,-0.035,feign,-0.020,exhibit,0.006,counter,-0.066,bare,-0.011,crop,-0.019
+bare,0.005,cement,-0.055,fork,0.003,hurt,-0.028,ignore,-0.038,rope,-0.021,station,0.006,pertain,-0.067,poke,-0.011,break,-0.020
+trap,0.004,wrong,-0.055,suffocate,0.002,ignore,-0.030,stun,-0.038,complicate,-0.022,sport,0.006,click,-0.068,curb,-0.011,pretend,-0.020
+stir,0.003,reopen,-0.056,refuse,0.001,breast,-0.030,dislike,-0.040,empower,-0.025,demolish,0.005,frame,-0.068,foam,-0.012,fry,-0.021
+lie,0.002,ice,-0.057,flutter,-0.000,cry,-0.034,calm,-0.040,need,-0.026,rock,0.002,target,-0.068,pit,-0.012,sleep,-0.021
+paddle,-0.005,empty,-0.059,grind,-0.001,pretend,-0.035,empty,-0.040,gaze,-0.029,ship,0.001,separate,-0.071,smoke,-0.013,chop,-0.022
+strip,-0.005,sink,-0.060,ignore,-0.004,distract,-0.035,enrage,-0.041,confuse,-0.030,pet,-0.001,unload,-0.072,crack,-0.014,rope,-0.024
+drill,-0.007,poke,-0.062,disagree,-0.009,evolve,-0.036,focus,-0.041,can,-0.033,stunt,-0.001,entertain,-0.073,grass,-0.014,repair,-0.024
+shop,-0.007,distract,-0.072,wrestle,-0.009,ice,-0.037,need,-0.043,focus,-0.034,couple,-0.001,reason,-0.073,swim,-0.016,labor,-0.024
+rope,-0.011,succumb,-0.076,limit,-0.010,gaze,-0.042,dry,-0.043,congregate,-0.041,lie,-0.002,deface,-0.074,suffocate,-0.019,sew,-0.026
+mail,-0.011,erase,-0.084,degrade,-0.011,erase,-0.050,pain,-0.046,dim,-0.041,climb,-0.004,feign,-0.076,sleep,-0.022,organize,-0.026
+fork,-0.012,disagree,-0.087,demand,-0.012,stop,-0.056,worsen,-0.050,task,-0.046,anger,-0.005,stun,-0.078,empty,-0.026,kidnap,-0.028
+handwrite,-0.028,ignore,-0.095,empty,-0.027,glow,-0.068,rest,-0.050,stun,-0.058,mail,-0.006,disable,-0.086,demolish,-0.026,dip,-0.029

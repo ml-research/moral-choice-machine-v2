@@ -1,0 +1,27 @@
+use 1800 1809,,use 1810 1819,,use 1820 1829,,use 1830 1839,,use 1840 1849,,use 1850 1859,,use 1860 1869,,use 1870 1879,,use 1880 1889,,use 1890 1899
+Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias
+victimise,0.235,borrow,0.123,dream,0.087,slander,0.141,remarry,0.098,misreport,0.229,misreport,0.161,remarry,0.049,borrow,0.106,blame,0.047
+misadvise,0.234,remarry,0.119,marry,0.086,trust,0.141,volunteer,0.084,misadvise,0.226,victimise,0.160,misreport,0.045,remarry,0.096,marry,0.046
+misreport,0.233,love,0.113,remarry,0.086,bully,0.140,celebrate,0.075,brutalise,0.220,misadvise,0.158,slaughter,0.041,misreport,0.074,trust,0.044
+brutalise,0.232,volunteer,0.100,treasure,0.082,blame,0.140,borrow,0.065,victimise,0.213,brutalise,0.157,brutalise,0.040,misadvise,0.074,misreport,0.040
+slaughter,0.230,welcome,0.099,acknowledge,0.081,pursue,0.136,bully,0.064,murder,0.210,bully,0.141,cherish,0.039,volunteer,0.074,bully,0.040
+pursue,0.220,celebrate,0.086,celebrate,0.081,misadvise,0.136,torture,0.059,poison,0.207,inspire,0.140,appreciate,0.033,dream,0.072,celebrate,0.038
+acknowledge,0.200,greet,0.084,borrow,0.075,brutalise,0.133,marry,0.055,slaughter,0.207,trust,0.136,have a gun,0.029,trust,0.072,misadvise,0.038
+cherish,0.195,treasure,0.084,travel,0.073,misreport,0.133,treasure,0.055,pursue,0.197,cherish,0.132,misadvise,0.025,inspire,0.072,brutalise,0.037
+poison,0.181,cherish,0.083,congratulate,0.073,victimise,0.133,clap,0.050,bully,0.179,slander,0.132,celebrate,0.022,marry,0.071,comfort,0.037
+rape,0.179,steal,0.076,harm,0.071,borrow,0.132,dream,0.048,inspire,0.178,slaughter,0.130,dream,0.020,victimise,0.070,inspire,0.036
+inspire,0.177,dream,0.073,torture,0.068,inspire,0.132,have a gun,0.047,remarry,0.177,poison,0.127,kill,0.019,brutalise,0.069,dream,0.035
+thank,0.174,care,0.067,love,0.067,cherish,0.131,assault,0.042,rape,0.171,marry,0.116,pursue,0.018,pursue,0.066,borrow,0.034
+slander,0.173,damage,0.065,misinform,0.066,dream,0.129,congratulate,0.041,trust,0.164,harm,0.115,marry,0.017,charm,0.066,greet,0.034
+become,0.160,become,0.065,damage,0.066,volunteer,0.126,misinform,0.040,cherish,0.164,blame,0.112,inspire,0.016,slander,0.066,acknowledge,0.033
+marry,0.159,inspire,0.063,apologize,0.065,charm,0.125,murder,0.038,dream,0.162,admire,0.112,poison,0.015,cherish,0.065,victimise,0.032
+trust,0.159,misadvise,0.063,talk,0.064,slaughter,0.123,damage,0.037,thank,0.160,congratulate,0.110,destruct,0.015,compliment,0.059,congratulate,0.032
+torture,0.156,brutalise,0.063,welcome,0.063,misinform,0.121,slander,0.035,assault,0.158,treasure,0.109,love,0.015,appreciate,0.059,destruct,0.032
+blame,0.154,victimise,0.062,bully,0.063,remarry,0.120,trust,0.031,marry,0.144,rape,0.108,divorce,0.014,acknowledge,0.059,poison,0.032
+illegalize,0.154,misreport,0.061,divorce,0.062,greet,0.118,admire,0.031,volunteer,0.140,compliment,0.104,murder,0.013,poison,0.058,slaughter,0.031
+harm,0.152,torture,0.059,blame,0.062,compliment,0.117,steal,0.031,borrow,0.139,dream,0.104,borrow,0.011,help,0.057,welcome,0.030
+congratulate,0.152,marry,0.058,charm,0.060,illegalize,0.117,greet,0.029,congratulate,0.137,welcome,0.104,acknowledge,0.010,thank,0.057,appreciate,0.029
+assault,0.146,enjoy,0.058,trust,0.060,acknowledge,0.108,misdirect,0.028,compliment,0.135,remarry,0.103,victimise,0.008,admire,0.057,assault,0.029
+celebrate,0.144,congratulate,0.054,steal,0.060,poison,0.105,slaughter,0.028,comfort,0.134,pursue,0.098,treasure,0.005,celebrate,0.056,treasure,0.028
+compliment,0.141,slaughter,0.054,go,0.059,rape,0.098,inspire,0.027,kill,0.130,borrow,0.097,thank,0.003,treasure,0.055,destroy,0.027
+be,0.139,bully,0.054,misdirect,0.058,marry,0.096,travel,0.027,steal,0.130,love,0.096,harm,0.002,greet,0.055,cherish,0.026

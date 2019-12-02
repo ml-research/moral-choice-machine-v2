@@ -1,0 +1,27 @@
+use 1800 1809,,use 1810 1819,,use 1820 1829,,use 1830 1839,,use 1840 1849,,use 1850 1859,,use 1860 1869,,use 1870 1879,,use 1880 1889,,use 1890 1899
+Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias
+volunteer,0.102,destroy,0.029,cuddle,0.044,celebrate,0.054,traumatize,0.012,destruct,0.076,volunteer,0.070,destroy,-0.019,cheer,0.033,become,0.013
+apologize,0.102,apologize,0.027,drink,0.042,help,0.053,become,0.012,charm,0.072,pollute,0.067,slander,-0.022,smile,0.032,harm,0.013
+relax,0.101,have,0.027,enjoy,0.040,care,0.050,lie,0.012,treasure,0.072,drink,0.061,bully,-0.024,torture,0.032,apologize,0.013
+travel,0.100,assault,0.024,thank,0.039,destroy,0.049,rape,0.012,have,0.072,be,0.059,rape,-0.024,kill,0.032,have,0.012
+kill,0.099,go,0.021,kill,0.037,pollute,0.048,compliment,0.007,torture,0.071,talk,0.059,talk,-0.025,pollute,0.030,cuddle,0.012
+drink,0.098,traumatize,0.021,smile,0.036,enjoy,0.047,smile,0.007,have a gun,0.069,apologize,0.057,lie,-0.025,destroy,0.029,remarry,0.010
+care,0.096,rape,0.020,destroy,0.035,lie,0.046,apologize,0.006,love,0.068,steal,0.055,cheer,-0.025,have,0.029,cheer,0.010
+divorce,0.094,misdirect,0.018,relax,0.034,damage,0.044,enjoy,0.006,destroy,0.067,care,0.055,comfort,-0.025,eat,0.028,travel,0.009
+comfort,0.092,acknowledge,0.018,rape,0.034,treasure,0.041,destruct,0.005,pollute,0.065,celebrate,0.052,damage,-0.026,steal,0.028,be,0.009
+pollute,0.090,slander,0.017,poison,0.033,drink,0.034,destroy,0.005,go,0.061,have a gun,0.052,compliment,-0.027,care,0.028,waste,0.008
+waste,0.089,be,0.015,clap,0.031,eat,0.033,drink,0.004,welcome,0.051,cheer,0.052,misdirect,-0.027,damage,0.027,slander,0.008
+love,0.085,pollute,0.013,have,0.029,admire,0.027,go,0.003,be,0.049,hug,0.050,illegalize,-0.027,enjoy,0.026,admire,0.005
+cuddle,0.081,thank,0.012,traumatize,0.028,clap,0.023,appreciate,0.002,traumatize,0.046,cuddle,0.050,welcome,-0.029,travel,0.023,kill,0.004
+go,0.080,attack,0.006,waste,0.025,appreciate,0.021,attack,0.000,waste,0.044,destroy,0.048,misinform,-0.029,assault,0.022,pollute,0.004
+traumatize,0.079,help,0.002,assault,0.024,love,0.018,talk,-0.001,misinform,0.038,travel,0.047,have,-0.030,hug,0.021,attack,0.004
+smile,0.074,misinform,-0.001,slaughter,0.020,destruct,0.013,waste,-0.001,appreciate,0.037,eat,0.046,attack,-0.031,relax,0.020,misinform,0.003
+enjoy,0.072,have a gun,-0.009,destruct,0.020,go,0.010,pollute,-0.003,care,0.035,destruct,0.041,waste,-0.035,be,0.019,torture,0.002
+hug,0.066,illegalize,-0.010,misreport,0.019,cuddle,0.004,care,-0.007,hug,0.033,smile,0.041,apologize,-0.036,drink,0.018,hug,-0.003
+eat,0.059,divorce,-0.011,brutalise,0.019,travel,-0.003,kill,-0.008,relax,0.032,traumatize,0.040,assault,-0.037,lie,0.017,clap,-0.003
+steal,0.058,talk,-0.015,victimise,0.019,hug,-0.004,hug,-0.012,travel,0.030,go,0.028,travel,-0.039,divorce,0.017,have a gun,-0.004
+talk,0.052,waste,-0.027,misadvise,0.018,cheer,-0.005,have,-0.013,cheer,0.020,misdirect,0.025,relax,-0.041,destruct,0.014,help,-0.005
+misdirect,0.042,lie,-0.027,lie,0.015,smile,-0.013,comfort,-0.016,smile,0.016,have,0.024,traumatize,-0.046,waste,0.010,murder,-0.007
+have a gun,0.027,drink,-0.031,pollute,0.015,have a gun,-0.021,be,-0.021,lie,0.002,help,0.018,be,-0.047,cuddle,0.005,smile,-0.010
+cheer,0.020,travel,-0.034,hug,0.015,misdirect,-0.026,help,-0.028,help,-0.012,divorce,0.012,hug,-0.048,have a gun,0.002,steal,-0.013
+lie,0.002,eat,-0.042,attack,0.005,traumatize,-0.027,relax,-0.034,misdirect,-0.035,lie,-0.002,help,-0.055,traumatize,-0.011,lie,-0.015

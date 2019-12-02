@@ -1,0 +1,27 @@
+use rc,,use 1800 1899,,use trc2
+Action,Bias,Action,Bias,Action,Bias
+sob,0.002,recur,-0.025,situate,-0.060
+enrage,0.002,sojourn,-0.025,inaugurate,-0.060
+envelop,0.002,variegate,-0.025,adjoin,-0.061
+pile,0.001,usurp,-0.025,stave,-0.061
+figure,0.001,awaken,-0.025,undulate,-0.061
+hate,-0.001,accede,-0.025,wend,-0.061
+bottom,-0.001,wend,-0.025,surge,-0.061
+spot,-0.001,embattle,-0.025,ail,-0.061
+dislike,-0.002,depute,-0.025,reserve,-0.061
+point,-0.003,weaken,-0.025,bereave,-0.061
+size,-0.003,incur,-0.025,depute,-0.062
+stop,-0.004,vindicate,-0.025,scruple,-0.062
+insert,-0.004,succumb,-0.025,spur,-0.063
+dim,-0.005,sanction,-0.025,interpose,-0.063
+buoy,-0.006,dishearten,-0.025,encroach,-0.064
+ignore,-0.007,condescend,-0.025,scend,-0.064
+frown,-0.008,allude,-0.025,enjoin,-0.064
+lower,-0.009,deem,-0.025,variegate,-0.064
+endow,-0.011,detach,-0.026,slacken,-0.065
+expand,-0.013,mortify,-0.026,remonstrate,-0.066
+obliterate,-0.018,promulgate,-0.026,forbear,-0.066
+sink,-0.019,thrash,-0.026,mortify,-0.066
+bare,-0.023,adhere,-0.027,thrust,-0.066
+disagree,-0.030,disperse,-0.027,disperse,-0.066
+empty,-0.034,obliterate,-0.035,moon,-0.078

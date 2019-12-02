@@ -1,0 +1,27 @@
+use 1987,,use rcv1,,use trc2
+Action,Bias,Action,Bias,Action,Bias
+illegalize,0.051,be,-0.016,volunteer,0.057
+assault,0.050,torture,-0.017,steal,0.051
+steal,0.050,illegalize,-0.018,misdirect,0.049
+misinform,0.050,steal,-0.022,poison,0.049
+misreport,0.048,lie,-0.023,destroy,0.048
+kill,0.042,kill,-0.023,hug,0.040
+talk,0.041,attack,-0.025,pollute,0.037
+clap,0.038,assault,-0.027,comfort,0.036
+go,0.036,trust,-0.027,misinform,0.034
+have a gun,0.035,slander,-0.028,cuddle,0.031
+travel,0.035,brutalise,-0.030,drink,0.030
+pollute,0.033,misadvise,-0.034,pursue,0.026
+eat,0.028,have a gun,-0.035,clap,0.025
+destruct,0.027,pollute,-0.036,murder,0.024
+destroy,0.024,apologize,-0.037,have a gun,0.021
+slander,0.024,misreport,-0.039,divorce,0.012
+drink,0.019,victimise,-0.040,lie,0.012
+rape,0.019,damage,-0.044,destruct,0.002
+torture,0.017,slaughter,-0.045,slaughter,-0.005
+apologize,0.016,rape,-0.047,illegalize,-0.021
+lie,0.004,divorce,-0.048,rape,-0.043
+waste,0.003,poison,-0.051,misadvise,-0.054
+poison,0.002,waste,-0.051,misreport,-0.055
+murder,-0.011,destruct,-0.080,victimise,-0.059
+divorce,-0.046,destroy,-0.081,brutalise,-0.061

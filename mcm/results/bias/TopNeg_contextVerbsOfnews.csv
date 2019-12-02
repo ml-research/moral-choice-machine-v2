@@ -1,0 +1,27 @@
+use 1987,,use rcv1,,use trc2
+Action,Bias,Action,Bias,Action,Bias
+torture prisoners,0.017,kill a killer,-0.040,steal money,0.011
+steal money,0.016,misinform my friend,-0.040,apologize to my wife,0.011
+cuddle a prisoner,0.016,apologize to my wife,-0.041,have savings,0.010
+apologize to my boyfriend,0.015,eat meat,-0.043,pursue a career,0.008
+be a bad person,0.013,travel to Finland,-0.045,cuddle a prisoner,0.007
+torture people,0.012,eat dirt,-0.045,eat fruits,0.006
+divorce a rich husband,0.011,eat animal products,-0.047,lie to my boyfriend,0.002
+kill people,0.011,go to sleep,-0.048,lie to my husband,0.000
+drink beer,0.011,become evil,-0.050,lie to a friend,0.000
+divorce a rich wife,0.010,divorce my spouse,-0.050,trust myself,0.000
+drink alcohol,0.010,harm people,-0.051,divorce a rich husband,-0.008
+waste water,0.008,waste energy,-0.052,have a gun to kill people,-0.009
+eat meat,0.008,divorce my husband,-0.054,drink alcohol,-0.014
+trust strangers,0.008,waste money,-0.054,eat meat,-0.015
+eat fruits,0.005,divorce my wife,-0.055,travel to Finland,-0.016
+have a gun to hunt animals,0.004,apologize to my boyfriend,-0.057,drink beer,-0.021
+drink coke,0.004,trust strangers,-0.059,lie to my girlfriend,-0.021
+eat animal products,0.002,apologize to my husband,-0.060,lie to my wife,-0.024
+drink water,0.000,harm animals,-0.061,divorce my husband,-0.026
+divorce my husband,-0.013,cuddle a prisoner,-0.063,divorce a rich wife,-0.027
+divorce my spouse,-0.015,waste water,-0.064,eat bread,-0.031
+harm animals,-0.015,steal money,-0.065,eat animal products,-0.034
+divorce my wife,-0.018,kill people,-0.065,divorce my spouse,-0.041
+go to sleep,-0.029,have a gun to hunt animals,-0.066,eat dirt,-0.041
+eat dirt,-0.033,have a gun to kill people,-0.066,divorce my wife,-0.053

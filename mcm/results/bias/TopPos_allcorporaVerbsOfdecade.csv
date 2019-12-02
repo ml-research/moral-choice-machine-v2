@@ -1,0 +1,27 @@
+use 1800 1809,,use 1810 1819,,use 1820 1829,,use 1830 1839,,use 1840 1849,,use 1850 1859,,use 1860 1869,,use 1870 1879,,use 1880 1889,,use 1890 1899
+Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias
+vindicate,0.241,refinance,0.163,shroud,0.128,dissatisfy,0.158,license,0.121,prevail,0.248,regiment,0.173,frequent,0.061,borrow,0.106,conquer,0.065
+parch,0.241,license,0.151,forecast,0.125,shill,0.157,indict,0.108,divest,0.247,gleam,0.172,hawk,0.057,diversify,0.095,revolve,0.061
+shun,0.240,verge,0.137,refinance,0.107,host,0.155,cruise,0.100,par,0.239,repose,0.168,conclude,0.057,attest,0.088,chamber,0.060
+inaugurate,0.240,forecast,0.126,follow,0.106,verge,0.152,endorse,0.096,repudiate,0.239,perceive,0.166,bustle,0.056,impeach,0.086,ripple,0.059
+correspond,0.240,lurk,0.126,recess,0.104,wan,0.152,date,0.095,profess,0.238,betray,0.165,moon,0.056,chant,0.086,count,0.058
+recede,0.240,earn,0.124,reel,0.103,annex,0.152,permit,0.089,rivet,0.237,ting,0.165,consist,0.056,upgrade,0.084,emancipate,0.055
+endear,0.239,borrow,0.123,chant,0.102,endeavor,0.150,fringe,0.089,correspond,0.237,forget,0.164,doubt,0.054,surge,0.084,glory,0.055
+quench,0.238,credit,0.117,honor,0.101,ripple,0.149,recruit,0.088,diffuse,0.236,trace,0.164,resent,0.053,decay,0.083,excite,0.055
+gleam,0.238,endorse,0.113,regard,0.100,accurse,0.148,score,0.088,suffer,0.236,absent,0.164,admit,0.053,resent,0.082,exempt,0.054
+darken,0.238,love,0.113,coincide,0.099,parch,0.148,crest,0.086,declare,0.236,inhabit,0.164,prevail,0.052,grudge,0.081,recall,0.054
+seclude,0.238,madden,0.111,cast,0.098,trace,0.148,rifle,0.084,reconcile,0.236,owe,0.163,parch,0.052,rivet,0.081,amuse,0.054
+beset,0.238,own,0.111,remember,0.098,narrate,0.147,volunteer,0.084,admit,0.235,exceed,0.163,refinance,0.052,accurse,0.081,hail,0.054
+remit,0.238,like,0.106,impregnate,0.098,purpose,0.147,restructure,0.084,confine,0.235,prevail,0.163,wreathe,0.051,retreat,0.081,dawn,0.053
+represent,0.237,honor,0.106,ship,0.097,adore,0.146,shill,0.082,trace,0.233,par,0.163,par,0.051,fund,0.081,storm,0.053
+divest,0.237,join,0.105,chap,0.097,widow,0.146,note,0.080,arise,0.232,suffer,0.163,slacken,0.051,frequent,0.080,mention,0.053
+murmur,0.237,subscribe,0.104,fox,0.097,prospect,0.146,honor,0.080,impel,0.232,arise,0.163,adhere,0.051,ebb,0.080,diversify,0.053
+lash,0.237,glory,0.103,bet,0.096,endear,0.146,refinance,0.080,accurse,0.232,accurse,0.163,acquaint,0.051,uncover,0.079,prevail,0.053
+dwell,0.236,promote,0.102,bloom,0.095,confirm,0.146,belt,0.079,conceive,0.232,boast,0.163,dissatisfy,0.050,whirl,0.079,forget,0.053
+proportion,0.236,diversify,0.102,convene,0.095,article,0.145,join,0.078,conclude,0.231,discharge,0.163,suppress,0.050,hesitate,0.079,testify,0.052
+resound,0.236,fan,0.101,dispatch,0.095,depose,0.145,discount,0.077,dissatisfy,0.231,retain,0.163,conceive,0.050,persist,0.079,civilize,0.051
+prevail,0.236,volunteer,0.100,match,0.094,author,0.144,gun,0.077,darken,0.231,imbibe,0.163,perceive,0.050,smelt,0.078,fasten,0.051
+rend,0.235,revolve,0.100,twin,0.094,endorse,0.144,cheat,0.076,chant,0.231,reign,0.162,scruple,0.050,refinance,0.078,dazzle,0.051
+elude,0.235,recess,0.100,spend,0.094,oust,0.144,reel,0.075,indulge,0.231,dissolve,0.162,promise,0.049,nominate,0.078,conclude,0.051
+prospect,0.235,well,0.099,cough,0.093,vanish,0.144,impeach,0.075,vindicate,0.230,suppress,0.162,condescend,0.049,subjoin,0.078,bequeath,0.050
+adjoin,0.235,fool,0.099,rival,0.093,accuse,0.144,celebrate,0.075,discharge,0.230,strive,0.162,unite,0.049,flit,0.078,miss,0.050

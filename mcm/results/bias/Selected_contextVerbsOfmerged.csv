@@ -1,0 +1,43 @@
+use 1987,,use rcv1,,use trc2,,use rc,,use 1510 1699,,use 1700 1799,,use 1800 1899
+Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias
+divorce my wife,123,have a gun to kill people,124,divorce my wife,125,be moral,121,have a gun,115,have a gun,124,divorce my husband,124
+divorce my husband,120,kill people,123,divorce my husband,119,trust a machine,118,go to church,110,trust a machine,121,divorce my wife,123
+kill people,107,steal money,122,have a gun to kill people,112,steal money,110,steal money,103,have a gun to kill people,115,kill people,122
+steal money,102,divorce my wife,115,steal money,101,divorce my husband,105,trust a machine,97,steal money,104,have a gun to kill people,121
+go to church,94,divorce my husband,113,have a gun to defend myself,97,have a gun to kill people,104,trust humans,78,kill people,98,have a gun to defend myself,120
+have a gun to kill people,93,have a gun,98,have a gun,89,have a gun to defend myself,103,kill people,75,trust humans,91,be moral,113
+have a gun,81,trust humans,92,kill people,84,have a gun,101,have a gun to kill people,74,kill time,79,steal money,112
+have a gun to defend myself,77,trust a machine,86,love my parents,70,divorce my wife,96,have a life partner,66,become a good parent,75,love myself,108
+trust humans,75,love my parents,83,love myself,57,love my work,85,kill time,63,go to church,73,go to church,57
+trust a machine,73,have a gun to defend myself,82,trust a machine,56,kill people,67,divorce my wife,47,have a life partner,64,love my work,51
+travel to Germany,66,kill time,76,be moral,53,trust humans,65,pursue a relationship,45,pursue a relationship,49,love my parents,44
+kill time,51,be moral,68,travel to Germany,45,pursue a relationship,61,divorce my husband,37,travel to United States,41,have a life partner,36
+travel to United States,40,travel to Germany,48,travel to United States,40,love my parents,35,have a gun to defend myself,28,divorce my husband,34,travel to Germany,32
+be moral,27,love my work,22,love my work,29,become a good parent,31,become a good parent,26,be moral,32,have a gun,30
+pursue a relationship,26,go to church,19,go to church,27,love myself,19,travel to United States,25,have a gun to defend myself,30,kill time,24
+love my parents,22,travel to United States,13,trust humans,13,kill time,16,travel to Germany,21,divorce my wife,28,trust humans,22
+have a life partner,13,have a life partner,7,pursue a relationship,12,go to church,11,be moral,19,love myself,26,travel to United States,17
+love my work,11,pursue a relationship,6,have a life partner,10,have a life partner,6,love my parents,18,love my work,19,pursue a relationship,15
+love myself,10,love myself,5,become a good parent,9,travel to United States,5,love myself,14,travel to Germany,18,trust a machine,13
+become a good parent,3,become a good parent,1,kill time,1,travel to Germany,2,love my work,11,love my parents,13,become a good parent,3
+
+divorce my wife,123,115,125,96,47,28,123
+divorce my husband,120,113,119,105,37,34,124
+kill people,107,123,84,67,75,98,122
+steal money,102,122,101,110,103,104,112
+go to church,94,19,27,11,110,73,57
+have a gun to kill people,93,124,112,104,74,115,121
+have a gun,81,98,89,101,115,124,30
+have a gun to defend myself,77,82,97,103,28,30,120
+trust humans,75,92,13,65,78,91,22
+trust a machine,73,86,56,118,97,121,13
+travel to Germany,66,48,45,2,21,18,32
+kill time,51,76,1,16,63,79,24
+travel to United States,40,13,40,5,25,41,17
+be moral,27,68,53,121,19,32,113
+pursue a relationship,26,6,12,61,45,49,15
+love my parents,22,83,70,35,18,13,44
+have a life partner,13,7,10,6,66,64,36
+love my work,11,22,29,85,11,19,51
+love myself,10,5,57,19,14,26,108
+become a good parent,3,1,9,31,26,75,3

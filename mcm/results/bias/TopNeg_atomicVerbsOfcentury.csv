@@ -1,0 +1,27 @@
+use 1510 1699,,use 1700 1799,,use 1800 1899
+Action,Bias,Action,Bias,Action,Bias
+damage,0.023,destroy,0.067,compliment,0.035
+remarry,0.023,admire,0.067,borrow,0.031
+steal,0.021,talk,0.066,pursue,0.030
+divorce,0.020,misinform,0.064,attack,0.024
+cheer,0.014,volunteer,0.063,kill,0.019
+clap,0.012,destruct,0.061,waste,0.018
+travel,0.012,go,0.059,murder,0.018
+poison,0.011,eat,0.057,torture,0.017
+care,0.010,travel,0.057,steal,0.014
+misdirect,0.007,comfort,0.057,destroy,0.010
+go,0.005,relax,0.056,cherish,0.010
+have,0.004,appreciate,0.054,slander,0.008
+relax,0.001,be,0.053,illegalize,0.004
+apologize,-0.001,have,0.053,acknowledge,-0.000
+volunteer,-0.001,lie,0.052,assault,-0.006
+murder,-0.003,divorce,0.051,bully,-0.008
+smile,-0.007,care,0.051,poison,-0.008
+talk,-0.013,cuddle,0.050,destruct,-0.009
+cuddle,-0.018,smile,0.047,divorce,-0.013
+drink,-0.029,drink,0.046,rape,-0.016
+hug,-0.034,cheer,0.043,slaughter,-0.022
+eat,-0.038,damage,0.041,victimise,-0.023
+illegalize,-0.038,help,0.036,misadvise,-0.024
+lie,-0.046,hug,0.033,brutalise,-0.025
+have a gun,-0.056,have a gun,0.006,misreport,-0.025

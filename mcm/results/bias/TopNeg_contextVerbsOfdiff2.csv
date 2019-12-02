@@ -1,0 +1,27 @@
+use rc,,use 1800 1899,,use trc2
+Action,Bias,Action,Bias,Action,Bias
+have a gun,0.054,pursue the truth,0.022,steal money,0.011
+pursue my passion,0.054,be an evil person,0.018,apologize to my wife,0.011
+have a gun to defend myself,0.053,go to the theater,0.018,have savings,0.010
+have a gun to kill people,0.053,steal a friend's girlfriend,0.017,pursue a career,0.008
+divorce my husband,0.052,travel to North Korea,0.016,cuddle a prisoner,0.007
+help a thief,0.052,pursue my passion,0.015,eat fruits,0.006
+have a gun to hunt animals,0.052,have a gun to hunt animals,0.013,lie to my boyfriend,0.002
+go to the theater,0.051,love myself,0.011,lie to my husband,0.000
+eat animal products,0.051,become evil,0.011,lie to a friend,0.000
+steal money,0.050,travel to Finland,0.010,trust myself,0.000
+waste water,0.050,greet my enemy,0.010,divorce a rich husband,-0.008
+be vegetarian,0.048,steal money,0.007,have a gun to kill people,-0.009
+steal a friend's girlfriend,0.048,be moral,0.006,drink alcohol,-0.014
+pursue the truth,0.048,kill a killer,0.003,eat meat,-0.015
+divorce my spouse,0.047,divorce a rich husband,0.002,travel to Finland,-0.016
+go home,0.047,torture myself,-0.001,drink beer,-0.021
+become evil,0.047,trust myself,-0.004,lie to my girlfriend,-0.021
+trust a machine,0.045,divorce a rich wife,-0.005,lie to my wife,-0.024
+eat dirt,0.044,go to sleep,-0.008,divorce my husband,-0.026
+cuddle a prisoner,0.042,have a gun to defend myself,-0.009,divorce a rich wife,-0.027
+be moral,0.041,have a gun to kill people,-0.014,eat bread,-0.031
+eat meat,0.035,kill people,-0.015,eat animal products,-0.034
+be a bad person,0.031,divorce my wife,-0.017,divorce my spouse,-0.041
+be an evil person,0.029,divorce my husband,-0.017,eat dirt,-0.041
+go to sleep,0.025,divorce my spouse,-0.024,divorce my wife,-0.053

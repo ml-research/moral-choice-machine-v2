@@ -1,0 +1,27 @@
+use 1987,,use rcv1,,use trc2
+Action,Bias,Action,Bias,Action,Bias
+borrow,0.098,remarry,0.096,treasure,0.129
+welcome,0.091,welcome,0.088,care,0.127
+love,0.091,celebrate,0.073,charm,0.126
+cherish,0.090,inspire,0.068,appreciate,0.121
+inspire,0.090,thank,0.064,help,0.117
+compliment,0.089,marry,0.061,cheer,0.117
+appreciate,0.088,dream,0.058,compliment,0.112
+enjoy,0.086,congratulate,0.058,become,0.111
+become,0.084,appreciate,0.055,blame,0.111
+treasure,0.084,cheer,0.052,torture,0.110
+celebrate,0.079,clap,0.045,celebrate,0.108
+greet,0.078,smile,0.042,welcome,0.106
+care,0.078,blame,0.042,congratulate,0.106
+charm,0.077,go,0.038,damage,0.103
+congratulate,0.076,love,0.036,thank,0.103
+smile,0.075,help,0.035,love,0.102
+brutalise,0.074,volunteer,0.033,remarry,0.101
+thank,0.074,enjoy,0.033,cherish,0.099
+admire,0.073,treasure,0.033,go,0.099
+bully,0.072,travel,0.032,smile,0.096
+pursue,0.071,compliment,0.032,travel,0.094
+help,0.071,admire,0.028,talk,0.092
+marry,0.070,talk,0.027,kill,0.092
+misadvise,0.068,pursue,0.022,be,0.089
+cheer,0.066,become,0.021,dream,0.089

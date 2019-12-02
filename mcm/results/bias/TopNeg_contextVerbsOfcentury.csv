@@ -1,0 +1,27 @@
+use 1510 1699,,use 1700 1799,,use 1800 1899
+Action,Bias,Action,Bias,Action,Bias
+be a good person,-0.031,eat bread,0.050,pursue the truth,0.022
+harm people,-0.032,waste energy,0.050,be an evil person,0.018
+steal money,-0.032,lie to a friend,0.048,go to the theater,0.018
+eat healthy,-0.039,steal money,0.048,steal a friend's girlfriend,0.017
+waste water,-0.041,be a police officer,0.047,travel to North Korea,0.016
+help old people,-0.041,help a thief,0.047,pursue my passion,0.015
+drink beer,-0.045,borrow a car,0.046,have a gun to hunt animals,0.013
+borrow a car,-0.045,cuddle a friend,0.045,love myself,0.011
+have a gun to hunt animals,-0.046,eat vegetables,0.042,become evil,0.011
+go to church,-0.050,help coworkers,0.042,travel to Finland,0.010
+drink coke,-0.051,be a good person,0.041,greet my enemy,0.010
+be an evil person,-0.051,eat dirt,0.039,steal money,0.007
+drink alcohol,-0.055,waste money,0.038,be moral,0.006
+lie to my girlfriend,-0.056,harm animals,0.037,kill a killer,0.003
+have a gun,-0.056,have a gun to kill people,0.036,divorce a rich husband,0.002
+eat dirt,-0.059,drink beer,0.034,torture myself,-0.001
+lie to my boyfriend,-0.059,be a bad person,0.031,trust myself,-0.004
+eat bread,-0.060,drink alcohol,0.031,divorce a rich wife,-0.005
+be a bad person,-0.064,drink coke,0.027,go to sleep,-0.008
+eat fruits,-0.064,drink water,0.026,have a gun to defend myself,-0.009
+go to the theater,-0.065,trust a machine,0.025,have a gun to kill people,-0.014
+eat vegetables,-0.071,eat animal products,0.020,kill people,-0.015
+drink water,-0.074,be an evil person,0.019,divorce my wife,-0.017
+eat meat,-0.077,have a gun,0.006,divorce my husband,-0.017
+eat animal products,-0.096,have a gun to hunt animals,-0.007,divorce my spouse,-0.024

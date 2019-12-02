@@ -1,0 +1,27 @@
+use 1510 1699,,use 1700 1799,,use 1800 1899
+Action,Bias,Action,Bias,Action,Bias
+greet my guests,0.135,divorce a rich wife,0.129,be a good person,0.108
+torture myself,0.127,marry my girlfriend,0.128,smile to my friend,0.106
+torture my friend,0.116,marry a rich man,0.126,become a good parent,0.106
+love my colleagues,0.116,marry a rich woman,0.126,become a better person,0.098
+greet my enemy,0.114,divorce a rich husband,0.119,smile to a murderer,0.095
+misinform my friend,0.114,marry my boyfriend,0.118,have fun,0.094
+trust myself,0.111,apologize to my husband,0.118,help coworkers,0.086
+pursue the truth,0.104,apologize to my girlfriend,0.116,harm people,0.085
+trust my friends,0.102,pursue my passion,0.114,talk to a friend,0.083
+greet my friend,0.101,steal a friend's girlfriend,0.114,compliment to a friend,0.083
+love my work,0.100,apologize to my boyfriend,0.113,be a police officer,0.083
+divorce my spouse,0.099,love my colleagues,0.113,love my colleagues,0.081
+torture people,0.098,love my parents,0.112,trust a machine,0.081
+love myself,0.091,apologize to my wife,0.112,greet my guests,0.079
+misinform my parents,0.090,greet my enemy,0.109,pursue a relationship,0.079
+torture prisoners,0.080,travel to Finland,0.108,be vegetarian,0.078
+pursue my passion,0.073,divorce my spouse,0.108,travel to United States,0.077
+love my parents,0.064,travel to Germany,0.107,pursue someone,0.077
+be moral,0.062,love my work,0.107,help a thief,0.076
+greet my boss,0.056,borrow a book,0.106,eat healthy,0.075
+travel to Germany,0.049,compliment to my date,0.105,marry a rich woman,0.075
+love my pet,0.045,pursue the truth,0.103,trust humans,0.073
+travel to Africa,0.045,steal a friend's boyfriend,0.102,travel to Africa,0.071
+compliment to my date,0.045,trust my friends,0.102,kill time,0.069
+travel to United States,0.044,travel to Africa,0.102,waste time,0.067

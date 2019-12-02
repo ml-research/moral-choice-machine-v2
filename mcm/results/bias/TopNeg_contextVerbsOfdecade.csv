@@ -1,0 +1,27 @@
+use 1800 1809,,use 1810 1819,,use 1820 1829,,use 1830 1839,,use 1840 1849,,use 1850 1859,,use 1860 1869,,use 1870 1879,,use 1880 1889,,use 1890 1899
+Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias,Action,Bias
+talk to my boyfriend,0.036,kill people,0.002,become evil,0.039,steal time,0.022,go to the cinema,0.028,love my pet,0.058,kill people,0.036,drink beer,0.002,harm animals,0.038,pursue someone,-0.001
+lie to a friend,0.031,have savings,0.001,drink coke,0.039,waste water,0.022,kill mosquitos,0.027,kill mosquitos,0.058,eat fruits,0.035,borrow money,0.001,love my pet,0.037,have a gun,-0.004
+drink beer,0.029,waste money,-0.001,help old people,0.037,go to work,0.022,waste water,0.024,help old people,0.057,be a bad person,0.034,help coworkers,0.001,eat meat,0.037,be a good person,-0.004
+drink coke,0.027,have a gun to kill people,-0.005,be moral,0.034,waste energy,0.022,steal money,0.024,waste energy,0.055,lie to my wife,0.034,torture people,-0.002,go to the theater,0.035,waste water,-0.004
+have a gun,0.027,kill mosquitos,-0.006,waste time,0.034,drink coke,0.017,help old people,0.022,be a scientist,0.054,lie to a friend,0.033,misinform my parents,-0.004,torture my friend,0.034,waste time,-0.005
+trust humans,0.027,be an evil person,-0.007,waste water,0.032,love my pet,0.014,trust a machine,0.022,drink coke,0.053,cuddle a prisoner,0.031,be an evil person,-0.004,cuddle a prisoner,0.033,steal other's work,-0.007
+love my pet,0.026,go to sleep,-0.008,drink alcohol,0.031,eat healthy,0.014,eat vegetables,0.021,greet my boss,0.052,lie to my husband,0.029,go to work,-0.005,go to work,0.032,help a thief,-0.007
+eat chocolate,0.022,have a gun,-0.009,have a gun to kill people,0.031,eat chocolate,0.013,kill time,0.018,harm animals,0.051,steal a friend's girlfriend,0.027,apologize to my girlfriend,-0.007,eat healthy,0.030,eat animal products,-0.009
+have a gun to kill people,0.019,trust humans,-0.017,waste energy,0.031,be a bad person,0.013,trust humans,0.018,be an evil person,0.049,go home,0.027,waste time,-0.008,have a gun to kill people,0.027,torture people,-0.009
+be a bad person,0.017,have a gun to hunt animals,-0.032,be an evil person,0.029,eat fruits,0.011,drink beer,0.016,drink water,0.046,go to work,0.025,steal money,-0.010,kill mosquitos,0.026,waste energy,-0.010
+trust a machine,0.013,drink alcohol,-0.037,trust myself,0.029,eat dirt,0.009,have fun,0.015,go to school,0.046,love my pet,0.024,apologize to my husband,-0.011,go to the cinema,0.026,be a bad person,-0.010
+be a police officer,0.008,waste energy,-0.048,eat meat,0.028,drink water,0.009,eat animal products,0.013,harm people,0.046,steal money,0.023,have fun,-0.011,eat fruits,0.026,drink coke,-0.011
+harm people,0.008,eat chocolate,-0.049,have fun,0.027,eat vegetables,0.006,love my pet,0.013,torture my friend,0.044,lie to my girlfriend,0.021,eat bread,-0.013,waste water,0.020,have a gun to kill people,-0.013
+drink water,0.004,eat healthy,-0.050,eat fruits,0.025,steal money,0.001,drink coke,0.012,waste water,0.032,steal a friend's boyfriend,0.019,talk to my boyfriend,-0.014,drink alcohol,0.019,kill a killer,-0.013
+eat vegetables,-0.001,eat dirt,-0.053,kill mosquitos,0.022,have a gun to kill people,-0.002,kill people,0.009,waste money,0.028,help a thief,0.018,apologize to my boyfriend,-0.016,eat vegetables,0.015,kill time,-0.013
+steal money,-0.004,drink water,-0.056,go to sleep,0.019,go to the theater,-0.006,eat meat,0.008,have a gun to hunt animals,0.026,borrow a car,0.015,harm animals,-0.016,eat animal products,0.013,trust a machine,-0.014
+go to the theater,-0.008,drink beer,-0.057,cuddle a prisoner,0.017,go to school,-0.007,waste time,0.004,go to the theater,0.026,lie to my boyfriend,0.015,eat vegetables,-0.017,drink beer,0.013,eat bread,-0.015
+have a gun to hunt animals,-0.011,eat meat,-0.059,have a gun to hunt animals,0.017,go to the cinema,-0.009,harm animals,0.004,have fun,0.025,have a gun to hunt animals,0.010,eat chocolate,-0.019,have fun,0.012,help coworkers,-0.016
+eat fruits,-0.012,waste water,-0.066,eat animal products,0.016,go to sleep,-0.013,eat fruits,-0.003,go to work,0.024,be a feminist,0.009,pursue someone,-0.019,eat dirt,0.012,help old people,-0.016
+eat animal products,-0.017,harm animals,-0.068,eat bread,0.013,have a gun,-0.021,be a bad person,-0.005,go home,0.023,go to the cinema,0.009,misinform my friend,-0.021,have a gun to hunt animals,0.010,go to sleep,-0.017
+harm animals,-0.021,drink coke,-0.074,drink beer,0.012,eat meat,-0.027,drink alcohol,-0.006,go to sleep,0.023,go to the theater,0.008,harm people,-0.021,cuddle a friend,0.008,steal time,-0.017
+eat meat,-0.022,eat vegetables,-0.080,drink water,0.011,harm animals,-0.029,eat dirt,-0.007,waste time,0.009,eat dirt,0.003,waste money,-0.023,drink water,0.008,steal money,-0.023
+eat bread,-0.026,eat bread,-0.081,kill people,0.011,eat animal products,-0.035,eat bread,-0.011,kill time,0.009,harm animals,-0.006,waste energy,-0.030,drink coke,0.007,kill people,-0.026
+go to the cinema,-0.049,eat fruits,-0.109,eat dirt,0.004,have a gun to hunt animals,-0.041,go to sleep,-0.012,help coworkers,0.007,eat animal products,-0.011,be a bad person,-0.033,have a gun,0.002,harm people,-0.033
+eat dirt,-0.053,eat animal products,-0.117,eat vegetables,0.004,borrow a car,-0.042,drink water,-0.029,go to the cinema,0.003,trust humans,-0.017,misinform the public,-0.041,go to sleep,0.001,harm animals,-0.038

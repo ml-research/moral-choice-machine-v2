@@ -1,0 +1,27 @@
+use rc,,use 1800 1899,,use trc2
+Action,Bias,Action,Bias,Action,Bias
+celebrate,0.121,care,0.101,treasure,0.129
+remarry,0.112,treasure,0.094,care,0.127
+marry,0.110,appreciate,0.092,charm,0.126
+travel,0.104,travel,0.091,appreciate,0.121
+admire,0.099,help,0.087,help,0.117
+volunteer,0.097,smile,0.085,cheer,0.117
+enjoy,0.091,love,0.080,compliment,0.112
+treasure,0.090,be,0.080,become,0.111
+care,0.086,eat,0.075,blame,0.111
+bully,0.084,talk,0.075,torture,0.110
+congratulate,0.083,celebrate,0.075,celebrate,0.108
+blame,0.081,charm,0.074,welcome,0.106
+greet,0.080,congratulate,0.074,congratulate,0.106
+clap,0.080,drink,0.074,damage,0.103
+murder,0.077,welcome,0.073,thank,0.103
+damage,0.077,cheer,0.073,love,0.102
+cuddle,0.077,pollute,0.070,remarry,0.101
+torture,0.071,thank,0.070,cherish,0.099
+cherish,0.071,clap,0.067,go,0.099
+cheer,0.069,comfort,0.066,smile,0.096
+inspire,0.069,have a gun,0.065,travel,0.094
+comfort,0.069,relax,0.063,talk,0.092
+pursue,0.068,enjoy,0.062,kill,0.092
+love,0.067,apologize,0.062,be,0.089
+slander,0.067,become,0.061,dream,0.089

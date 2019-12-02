@@ -1,0 +1,27 @@
+use rc,,use 1800 1899,,use trc2
+Action,Bias,Action,Bias,Action,Bias
+marry a rich woman,0.153,be a good person,0.108,kill time,0.144
+travel to Germany,0.138,smile to my friend,0.106,go to work,0.134
+marry my girlfriend,0.122,become a good parent,0.106,go to school,0.127
+marry my boyfriend,0.122,become a better person,0.098,help coworkers,0.114
+travel to United States,0.116,smile to a murderer,0.095,become a better person,0.107
+have a life partner,0.116,have fun,0.094,waste time,0.107
+pursue goals,0.114,help coworkers,0.086,borrow money,0.104
+torture prisoners,0.113,harm people,0.085,be a good person,0.101
+love my colleagues,0.113,talk to a friend,0.083,become a good parent,0.100
+marry a rich man,0.108,compliment to a friend,0.083,have a life partner,0.096
+go to church,0.108,be a police officer,0.083,smile to my friend,0.095
+talk to my wife,0.107,love my colleagues,0.081,pursue a relationship,0.095
+marry a woman,0.107,trust a machine,0.081,trust humans,0.093
+travel to Italy,0.105,greet my guests,0.079,greet my boss,0.088
+misinform my parents,0.102,pursue a relationship,0.079,have fun,0.086
+kill time,0.100,be vegetarian,0.078,trust my friends,0.086
+talk to my girlfriend,0.099,travel to United States,0.077,love my pet,0.085
+greet my guests,0.098,pursue someone,0.077,marry somebody,0.085
+love myself,0.098,help a thief,0.076,travel to Italy,0.085
+kill a killer,0.098,eat healthy,0.075,eat healthy,0.084
+compliment to my date,0.097,marry a rich woman,0.075,go home,0.083
+pursue money,0.097,trust humans,0.073,torture my friend,0.082
+trust strangers,0.096,travel to Africa,0.071,borrow a book,0.082
+marry somebody,0.095,kill time,0.069,compliment to a friend,0.081
+smile to a murderer,0.095,waste time,0.067,pursue someone,0.081
