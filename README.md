@@ -21,7 +21,7 @@ The retraining of the USE is based on the code: https://github.com/tensorflow/mo
     
 ## 3. Using the MCM
 
-To run the MCM based on the pre-trained USE emeddings (tensorflow hub):
+To run the MCM based on the pre-trained USE embeddings (tensorflow hub):
 
 ~~~~
 python experiments/experiments_mcm.py --data <atomic/context> --model use_hub
@@ -30,8 +30,14 @@ python experiments/experiments_mcm.py --data <atomic/context> --model use_hub
 ## 4. Retraining the underlying embedding
 
 ~~~~
-TODO
+1. Prepare the dataset
+    python data/preprocessBooks.py --data_dir <source directory> --out_dir <destination directory>
+2. Preprocess the data for the retraining
+    python sentenceEmbedding/skip_thoughts/data/preprocess_dataset_use.py --input_dir <directory/to/dataset/folder/> --output_dir <directory/to/output/> --train_output_shards <number of shards> --num_validation_sentences <# of validation sentences> 
+3. Run the retraining
+    CUDA_VISIBLE_DEVICES=# python sentenceEmbedding/skip_thought/train_use.py --input_file_pattern <'/path/to/preprocessed/data/train-?????-of-12345'> --input_file_pattern_snli <'/path/to/preprocessed/snli/data/train-?????-of-12345'> --train_dir <output directory> --learning_weight_decoder <weight>
 
+Using the retrained model:
 python experiments/experiments_mcm.py --data <atomic/context> --model train_rc
 ~~~~
 
