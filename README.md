@@ -18,16 +18,25 @@ The retraining of the USE is based on the code: https://github.com/tensorflow/mo
     scipy>=1.3.1
     tqdm>=4.36.1
     pandas>=0.25.1
-    
-## 3. Using the MCM
+
+
+## 3. Using the MCM interactive
 
 To run the MCM based on the pre-trained USE embeddings (tensorflow hub):
 
 ~~~~
 python experiments/experiments_mcm.py --data <atomic/context> --model use_hub
 ~~~~
+    
+## 4. Reproducing the results
 
-## 4. Retraining the underlying embedding
+To run the MCM based on the pre-trained USE embeddings (tensorflow hub):
+
+~~~~
+python experiments/mcm_answering.py --model use_hub
+~~~~
+
+## 5. Retraining the underlying embedding
 
 ~~~~
 1. Prepare the dataset
@@ -41,7 +50,7 @@ Using the retrained model:
 python experiments/experiments_mcm.py --data <atomic/context> --model train_rc
 ~~~~
 
-## 5. Citing & Authors
+## 6. Citing & Authors
 
 If you find this repository helpful, feel free to cite our publication:
 TODO
